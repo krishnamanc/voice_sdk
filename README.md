@@ -15,3 +15,6 @@ This SDK allows developers to create voice bots powered by Large Language Models
 ## Usage
 
 To run the application, execute:
+'''
+python main.py
+'''
